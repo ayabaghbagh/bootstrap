@@ -4,7 +4,8 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">Bootstrap last version</h3>
+<h1>Update in Boostrap</h1>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
@@ -172,7 +173,7 @@ Editor preferences are available in the [editor config](https://github.com/twbs/
 
 ## Community
 
-Get updates on Bootstrap's development and chat with the project maintainers and community members.
+Get update on Bootstrap's development and chat with the project maintainers and community members.
 
 - Follow [@getbootstrap on Twitter](https://twitter.com/getbootstrap).
 - Read and subscribe to [The Official Bootstrap Blog](https://blog.getbootstrap.com/).
